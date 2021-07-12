@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contributos
+title: Contributors
 nav_order: 80
 ---
 
