@@ -27,3 +27,9 @@ A: No. A systematic review is a formal study design to gather data, based on pre
 
 Our work performed exploratory analysis on cancer survival data broadly across many types of oncology clinical trials and treatment modalities. We do not intend to make specific conclusions about a single treatment or therapy. None of our analysis is intended to influence treatment decisions.
 
+### Q: How is the parametric fitting procedure performed?
+A: 	The event times for the imputed patients, either death for overall survival distributions or surrogate events in the case of event-free survival distributions, are compared to the event times simulated under each parametric distribution. The likelihood of a specific parametric form to fit patient data is computed by maximum likelihood estimation. Specifically, the relative likelihood of a patient event taking place at a particular point in time is calculated under that parametric distribution’s probability density function. The likelihood of a censoring event taking place is calculated by integrating the probability density function (the cumulative density function), and computing the likelihood of a patient event taking place in the trial after the censoring time (1- the probability at that time under the cumulative density function). This procedure is repeated for all patient events in an arm of a clinical trial, and the overall likelihood of a fit was calculated by multiplying all relative likelihoods.
+
+For more information, please see our preprint: [bioRxiv 2021.05.14.442837; doi: https://doi.org/10.1101/2021.05.14.442837](https://www.biorxiv.org/content/10.1101/2021.05.14.442837v1)
+
+
