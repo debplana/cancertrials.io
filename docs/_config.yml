@@ -1,3 +1,7 @@
+title: cancertrials.io
+description: Imputed IPD for cancer clinical trials
+logo: "/assets/images/logo_harvard_150.png"
+
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 
@@ -5,3 +9,51 @@ parse_block_html: true
 
 plugins:
   - jekyll-remote-theme
+  
+
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: pdmosses/just-the-docs@rec-nav-2
+color_scheme: lsp
+search_enabled: true
+heading_anchors: true
+
+
+# Aux links for the upper right navigation
+aux_links_new_tab: false
+
+
+# Footer content
+# appears at the bottom of every page's main content
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y" # format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+license_name: "MIT License"
+license_url: "https://github.com/debplana/cancertrials.io/blob/main/LICENSE"
+
+
+# Google Analytics
+ga_tracking: G-4QW3EHY93N
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+
+repository: debplana/cancertrials.io
+
+
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
