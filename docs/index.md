@@ -9,7 +9,7 @@ description: ""
 <!-- UIkit CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.22/dist/css/uikit.min.css" />
 
-# CancerTrials.io
+# cancertrials.io
 
 Welcome to cancertrials.io!
 The site is designed by the [Laboratory of Systems Pharmacology at Harvard Medical School](https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/), 
