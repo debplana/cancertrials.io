@@ -7,7 +7,7 @@ nav_order: 80
 # Frequently Asked Questions
 
 ## Data set
-### Q: What is individual participant data (IPD)?
+### Q: What are individual participant data (IPD)?
 A: IPD are the timing of events for individual patients enrolled in a clinical trial. Event types most often include censoring or death for cancer clinical trials, but can also include surrogate events such as disease progression, biochemical or clinical treatment failure, and local-regional recurrence of disease. 
 
 ### Q: How does the data imputation procedure work, and how do you check the quality of the resulting data? 
