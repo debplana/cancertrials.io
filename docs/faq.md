@@ -17,7 +17,6 @@ A: The data extraction and imputation procedures followed the methods outline in
 The quality of the data imputation was confirmed quantitatively by calculating the Hazard Ratio using this imputed data and compared to the corresponding trial’s reported Hazard Ratio and qualitatively by overlaying the KM curve generated from the imputed data on top of the published curve. 
 Trials with a Hazard Ratio difference greater than 0.1 or perceptible visual differences, were removed from the final data set and not analyzed further. 
 
-
 ### Q: How many studies are included in the current data set? 
 A: The data set consists of ~150 unique published phase III clinical trials in breast, colorectal, lung, and prostate cancer in metastatic and non-metastatic setting from 2014-2016. The resulting curated data set consists of 262 IPD .csv files, each with data from a unique image from the published trial results. In aggregate, these data comprise ~ 220,000 overall survival or event-free survival events (e.g. progression free survival, PFS).
 
@@ -30,6 +29,5 @@ Our work performed exploratory analysis on cancer survival data broadly across m
 ### Q: How is the parametric fitting procedure performed?
 A: 	The event times for the imputed patients, either death for overall survival distributions or surrogate events in the case of event-free survival distributions, are compared to the event times simulated under each parametric distribution. The likelihood of a specific parametric form to fit patient data is computed by maximum likelihood estimation. Specifically, the relative likelihood of a patient event taking place at a particular point in time is calculated under that parametric distribution’s probability density function. The likelihood of a censoring event taking place is calculated by integrating the probability density function (the cumulative density function), and computing the likelihood of a patient event taking place in the trial after the censoring time (1- the probability at that time under the cumulative density function). This procedure is repeated for all patient events in an arm of a clinical trial, and the overall likelihood of a fit was calculated by multiplying all relative likelihoods.
 
-For more information, please see our preprint: [bioRxiv 2021.05.14.442837; doi: https://doi.org/10.1101/2021.05.14.442837](https://www.biorxiv.org/content/10.1101/2021.05.14.442837v1)
-
-
+### Q: Why does the parametric fit look worse at the end of a trial than at the start?
+A: Because this is the region of the survival curve with the fewest number of patient events. The fitting procedure maximizes the likelihood of a single distribution to describe all observed patient events, and therefore its best performance will be at the regions of the survival curve with the most data. 
