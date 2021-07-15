@@ -14,6 +14,7 @@ A: IPD are the timing of events for individual patients enrolled in a clinical t
 A: The data extraction and imputation procedures followed the methods outline in the following two studies:
 * Guyot, P., Ades, A., Ouwens, M.J., and Welton, N.J. (2012). Enhanced secondary analysis of survival data: reconstructing the data from published Kaplan-Meier survival curves.   BMC Med Res Methodol 12, 9.
 * Rahman, R., Fell, G., Ventz, S., Arfé, A., Vanderbeek, A.M., Trippa, L., and Alexander, B.M. (2019). Deviation from the Proportional Hazards Assumption in Randomized Phase 3     clinical Trials in Oncology: Prevalence, Associated Factors, and Implications. Clin Cancer Res 25, 6339–6345.
+
 The quality of the data imputation was confirmed quantitatively by calculating the Hazard Ratio using this imputed data and compared to the corresponding trial’s reported Hazard Ratio and qualitatively by overlaying the KM curve generated from the imputed data on top of the published curve. 
 Trials with a Hazard Ratio difference greater than 0.1 or perceptible visual differences, were removed from the final data set and not analyzed further. 
 
