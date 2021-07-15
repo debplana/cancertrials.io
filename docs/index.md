@@ -12,7 +12,7 @@ description: ""
 # cancertrials.io
 
 Welcome to cancertrials.io!
-The site is designed by the following groups to help researchers access and analyze imputed individual participant data (IPD) from phase III oncology clinical trials. 
+The site is designed by the following groups to help researchers access and analyze imputed individual participant data (IPD) from phase III oncology clinical trials: 
 
 * [Laboratory of Systems Pharmacology at Harvard Medical School](https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/)
 * [Dana-Farber Cancer Institute](https://www.dana-farber.org/)
