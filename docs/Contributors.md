@@ -8,7 +8,7 @@ nav_order: 140
 
 **Harvard Medical School**
 * [Deborah Plana](https://connects.catalyst.harvard.edu/Profiles/display/Person/159270)
-* [Peter K. Sorger](https://connects.catalyst.harvard.edu/Profiles/display/Person/6970)
+* [Peter Sorger](https://connects.catalyst.harvard.edu/Profiles/display/Person/6970)
 
 **University of North Carolina School of Medicine**
 * [Adam Palmer](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/)
