@@ -1,6 +1,6 @@
 title: cancertrials.io
 description: Imputed IPD for cancer clinical trials
-logo: "/assets/images/logo_harvard_150.png"
+#logo: "/assets/images/logo_harvard_150.png"
 
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
