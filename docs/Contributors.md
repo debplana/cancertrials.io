@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contributors and Funding 
+title: Contributors and funding 
 nav_order: 140
 ---
 
