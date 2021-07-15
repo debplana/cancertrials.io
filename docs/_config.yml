@@ -37,7 +37,7 @@ license_url: "https://github.com/debplana/cancertrials.io/blob/main/LICENSE"
 
 
 # Google Analytics
-ga_tracking: G-4QW3EHY93N
+ga_tracking: UA-162147205-3
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings
 
 
