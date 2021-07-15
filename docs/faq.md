@@ -19,10 +19,11 @@ Trials with a Hazard Ratio difference greater than 0.1 or perceptible visual dif
 
 
 ### Q: How many studies are included in the current data set? 
-A: The original data set consisted of 152 unique published phase III clinical trials in breast, colorectal, lung, and prostate cancer in metastatic and non-metastatic setting from 2014-2016. Trials were removed from the original data set if there were any inconsistencies in the imputed patient-data as compared to its associated clinical trial, such as differing numbers of patients in the publication at-risk table and imputed data. The resulting curated data set consists of 262 IPD .csv files, each with data from a unique image from ~150 publications reporting phase III cancer trial results. In aggregate, these data comprise ~ 220,000 overall survival or event-free survival events (e.g. progression free survival, PFS).
+A: The data set consists of ~150 unique published phase III clinical trials in breast, colorectal, lung, and prostate cancer in metastatic and non-metastatic setting from 2014-2016. The resulting curated data set consists of 262 IPD .csv files, each with data from a unique image from the published trial results. In aggregate, these data comprise ~ 220,000 overall survival or event-free survival events (e.g. progression free survival, PFS).
 
 ## Analysis
 ### Q: Is this study a systematic review or meta-analysis? 
 A: No. A systematic review is a formal study design to gather data, based on prespecified eligibility criteria, to answer a specific question. A meta-analysis is a subtype of systematic review that integrates the results of previous research studies to make conclusions relevant to that disease and treatment area, such as to provide a pooled estimate of a treatment’s effect.  
+
 Our work performed exploratory analysis on cancer survival data broadly across many types of oncology clinical trials and treatment modalities. We do not intend to make specific conclusions about a single treatment or therapy. None of our analysis is intended to influence treatment decisions.
 
