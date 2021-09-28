@@ -12,7 +12,6 @@ description: ""
 # cancertrials.io
 
 **ABOUT**
-  
 cancertirals.io contains imputed individual participant data (IPD) from previously published oncology research clinical trials (RCTs). The site also contains various types of analysis performed on these data. Data and analysis can be downloaded or viewed interactively using R-Shiny. 
   
   
@@ -25,13 +24,14 @@ IPD in oncology trials is the time (relative to the start of the trial) at which
   
   
 **Data imputation**
-The Kaplan Meir estimators [3] for survival universally published as part of Phase 3 clinical trial reports are plotted using IPD but the underlying values are rarely published. The International Committee of Medical Journal Editors (ICMJE) has stated release of IPD from clinical trials is an ethical necessity but compliance remains poor: less than 1% of papers published in the last three actually compl [4]. To overcome this problem we have developed methods we have developed image processing methods to impute IPD values from published plots of the Kaplan-Meier estimator [5–7]. Our approach is consistent with the Institute of Medicine’s reports on best practices for sharing data from published clinical trials, including crediting the sources of the data and sharing all code used in the analyses [8]. However, primary data with associated demographic information would be superior to imputed data; we welcome data contributions from individuals with access to the primary data. Contact us at CancerIPD [at] gmail.com.
+The Kaplan Meir estimators [3] for survival universally published as part of Phase 3 clinical trial reports are plotted using IPD but the underlying values are rarely published. The International Committee of Medical Journal Editors (ICMJE) has stated release of IPD from clinical trials is an ethical necessity but compliance remains poor: less than 1% of papers published in the last three actually comply [4]. To overcome this problem we have developed methods we have developed image processing methods to impute IPD values from published plots of the Kaplan-Meier estimator [5–7]. Our approach is consistent with the Institute of Medicine’s reports on best practices for sharing data from published clinical trials, including crediting the sources of the data and sharing all code used in the analyses [8]. However, primary data with associated demographic information would be superior to imputed data; we welcome data contributions from individuals with access to the primary data. Contact us at CancerIPD [at] gmail.com.
   
   
 **DATA SETS**
   
 **CT1.v1** 
 Imputed IPD from ~150 trial publications in breast, colorectal, lung, and prostate cancer, which in aggregate comprise ~220,000 overall survival OS) or event-free survival events (e.g. progression free survival, PFS). 
+
 Citation: “Cancer patient survival can be accurately parameterized, revealing time-dependent therapeutic effects and doubling the precision of small trials” by Deborah Plana, Geoffrey Fell, Brian M. Alexander, Adam C. Palmer, Peter K. Sorger. bioRxiv 2021.05.14.442837; doi: https://doi.org/10.1101/2021.05.14.442837.
 
 <b>PARTICIPANTS<b/>
@@ -67,4 +67,4 @@ Citation: “Cancer patient survival can be accurately parameterized, revealing 
 
 <b>FUNDING<b/>
   
-This project was supported by NIH grant U54-CA225088 to P. Sorger. Deborah Plana is supported by NIGMS training grants T32-GM007753 and F30-CA260780.
+This project was supported by NIH grant U54-CA225088 to Peter Sorger. Deborah Plana is supported by NIGMS training grants T32-GM007753 and F30-CA260780.
