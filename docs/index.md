@@ -36,17 +36,24 @@ Citation: “Combinatorial benefit without synergy in recent clinical trials of 
 <b>PARTICIPANTS<b/>
   
 <ins>Harvard MIT Program in Regulatory Sciences.</ins>
-Deborah Plana
-Peter Sorger
+  
+*Deborah Plana
+  
+*Peter Sorger
 
 <ins>Dana-Farber Cancer Institute</ins>
-Geoffrey Fell
-Brian M. Alexander
-Lorenzo Trippa
+  
+*Geoffrey Fell
+  
+*Brian M. Alexander
+  
+*Lorenzo Trippa
 
 <ins>Palmer Laboratory at University of North Carolina at Chapel Hill</ins>
-Adam C. Palmer
-Haeun (Hannah) Hwangbo 
+  
+*Adam C. Palmer
+  
+*Haeun (Hannah) Hwangbo 
 
 <b>CITATIONS<b/>
 
