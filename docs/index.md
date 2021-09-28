@@ -12,6 +12,7 @@ description: ""
 # cancertrials.io
 
 <b>ABOUT<b/>
+  
 cancertirals.io contains imputed individual participant data (IPD) from previously published oncology research clinical trials (RCTs). The site also contains various types of analysis performed on these data. Data and analysis can be downloaded or viewed interactively using R-Shiny. 
   
   
@@ -32,6 +33,7 @@ Citation: “Combinatorial benefit without synergy in recent clinical trials of 
   
   
 <b>PARTICIPANTS<b/>
+  
 <ins>Harvard MIT Program in Regulatory Sciences.</ins>
 Deborah Plana
 Peter Sorger
@@ -45,7 +47,7 @@ Lorenzo Trippa
 Adam C. Palmer
 Haeun (Hannah) Hwangbo 
 
-<b>Citations<b/>
+<b>CITATIONS<b/>
 
 1.	Stewart, L. A. & Tierney, J. F. To IPD or not to IPD?: Advantages and Disadvantages of Systematic Reviews Using Individual Patient Data. Eval Health Prof 25, 76–97 (2002).
 2.	Riley, R. D., Lambert, P. C. & Abo-Zaid, G. Meta-analysis of individual participant data: rationale, conduct, and reporting. BMJ 340, c221 (2010).
@@ -56,5 +58,5 @@ Haeun (Hannah) Hwangbo
 7.	Rahman, R. et al. Deviation from the Proportional Hazards Assumption in Randomized Phase 3 Clinical Trials in Oncology: Prevalence, Associated Factors, and Implications. Clin Cancer Res 25, 6339–6345 (2019).
 8.	Committee on Strategies for Responsible Sharing of Clinical Trial Data, Board on Health Sciences Policy, & Institute of Medicine. Discussion Framework for Clinical Trial Data Sharing: Guiding Principles, Elements, and Activities. (National Academies Press (US), 2014).
 
-<b>Funding<b/>
+<b>FUNDING<b/>
 This project was supported by NIH grant U54-CA225088 to P. Sorger. Deborah Plana is supported by NIGMS training grants T32-GM007753 and F30-CA260780.
