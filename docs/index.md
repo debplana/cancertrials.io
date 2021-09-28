@@ -67,4 +67,5 @@ Citation: “Combinatorial benefit without synergy in recent clinical trials of 
 8.	Committee on Strategies for Responsible Sharing of Clinical Trial Data, Board on Health Sciences Policy, & Institute of Medicine. Discussion Framework for Clinical Trial Data Sharing: Guiding Principles, Elements, and Activities. (National Academies Press (US), 2014).
 
 <b>FUNDING<b/>
+  
 This project was supported by NIH grant U54-CA225088 to P. Sorger. Deborah Plana is supported by NIGMS training grants T32-GM007753 and F30-CA260780.
