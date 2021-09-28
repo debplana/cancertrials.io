@@ -12,7 +12,8 @@ description: ""
 # cancertrials.io
 
 **ABOUT**
-cancertirals.io contains imputed individual participant data (IPD) from previously published oncology research clinical trials (RCTs). The site also contains various types of analysis performed on these data. Data and analysis can be downloaded or viewed interactively using R-Shiny. 
+
+cancertrials.io contains imputed individual participant data (IPD) from previously published oncology research clinical trials (RCTs). The site also contains various types of analysis performed on these data. Data and analysis can be downloaded or viewed interactively using R-Shiny. 
   
   
 **Public domain license** 
