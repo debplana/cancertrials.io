@@ -44,7 +44,7 @@ Citation: “Cancer patient survival can be accurately parameterized, revealing 
   
 * [Geoffrey Fell](https://ds.dfci.harvard.edu/our-people/geoffrey-fell-ms/)
 * [Brian Alexander](https://www.dfhcc.harvard.edu/insider/member-detail/member/brian-alexander-md-mph/)
-* [Lorenzo Trippa] (https://www.hsph.harvard.edu/lorenzo-trippa/)
+* [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)
 
 
 <u>Palmer Laboratory at University of North Carolina at Chapel Hill</u>
