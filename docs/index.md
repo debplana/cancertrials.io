@@ -16,44 +16,42 @@ description: ""
 cancertirals.io contains imputed individual participant data (IPD) from previously published oncology research clinical trials (RCTs). The site also contains various types of analysis performed on these data. Data and analysis can be downloaded or viewed interactively using R-Shiny. 
   
   
-<b>Public domain license.<b/> All data are are available under a permissive CC BY4.0 license; software is released under an MIT License. 
+<b>Public domain license<b/> 
+All data are are available under a permissive CC BY4.0 license; software is released under an MIT License. 
   
   
-<b>Individual participant data.<b/> IPD in oncology trials is the time (relative to the start of the trial) at which events such as progression, death and censoring occur for individual (anonymous) trial participants. This is the most useful form of survival data for meta-analysis and retrospective investigation of trial outcomes [1,2]. 
+<b>Individual participant data<b/> 
+IPD in oncology trials is the time (relative to the start of the trial) at which events such as progression, death and censoring occur for individual (anonymous) trial participants. This is the most useful form of survival data for meta-analysis and retrospective investigation of trial outcomes [1,2]. 
   
   
-<b>Data imputation.<b/> The Kaplan Meir estimators [3] for survival universally published as part of Phase 3 clinical trial reports are plotted using IPD but the underlying values are rarely published. The International Committee of Medical Journal Editors (ICMJE) has stated release of IPD from clinical trials is an ethical necessity but compliance remains poor: less than 1% of papers published in the last three actually compl [4]. To overcome this problem we have developed methods we have developed image processing methods to impute IPD values from published plots of the Kaplan-Meier estimator [5–7]. Our approach is consistent with the Institute of Medicine’s reports on best practices for sharing data from published clinical trials, including crediting the sources of the data and sharing all code used in the analyses [8]. However, primary data with associated demographic information would be superior to imputed data; we welcome data contributions from individuals with access to the primary data. Contact us at CancerIPD [at] gmail.com.
+<b>Data imputation<b/> 
+The Kaplan Meir estimators [3] for survival universally published as part of Phase 3 clinical trial reports are plotted using IPD but the underlying values are rarely published. The International Committee of Medical Journal Editors (ICMJE) has stated release of IPD from clinical trials is an ethical necessity but compliance remains poor: less than 1% of papers published in the last three actually compl [4]. To overcome this problem we have developed methods we have developed image processing methods to impute IPD values from published plots of the Kaplan-Meier estimator [5–7]. Our approach is consistent with the Institute of Medicine’s reports on best practices for sharing data from published clinical trials, including crediting the sources of the data and sharing all code used in the analyses [8]. However, primary data with associated demographic information would be superior to imputed data; we welcome data contributions from individuals with access to the primary data. Contact us at CancerIPD [at] gmail.com.
   
   
 <b>DATA SETS<b/>
   
-CT1.v1 Imputed IPD from ~150 trial publications in breast, colorectal, lung, and prostate cancer, which in aggregate comprise ~220,000 overall survival OS) or event-free survival events (e.g. progression free survival, PFS). 
+<b>CT1.v1<b/> Imputed IPD from ~150 trial publications in breast, colorectal, lung, and prostate cancer, which in aggregate comprise ~220,000 overall survival OS) or event-free survival events (e.g. progression free survival, PFS). 
 Citation: “Cancer patient survival can be accurately parameterized, revealing time-dependent therapeutic effects and doubling the precision of small trials” by Deborah Plana, Geoffrey Fell, Brian M. Alexander, Adam C. Palmer, Peter K. Sorger. bioRxiv 2021.05.14.442837; doi: https://doi.org/10.1101/2021.05.14.442837.
-CT2.v1 Imputed IPD from immune-oncology trials. 
-Citation: “Combinatorial benefit without synergy in recent clinical trials of immune checkpoint inhibitors” by Adam C. Palmer, Benjamin Izar , Haeun Hwangbo and Peter K. Sorger. https://www.medrxiv.org/content/10.1101/2020.01.31.20019604v2
-  
-  
+
 <b>PARTICIPANTS<b/>
   
-<ins>Harvard MIT Program in Regulatory Sciences.</ins>
+<u>Harvard MIT Program in Regulatory Sciences.</u>
   
-*Deborah Plana
+* [Deborah Plana](https://connects.catalyst.harvard.edu/Profiles/display/Person/159270)
+* [Peter Sorger](https://connects.catalyst.harvard.edu/Profiles/display/Person/6970)
   
-*Peter Sorger
+<u>Dana-Farber Cancer Institute</u>
+  
+* [Geoffrey Fell](https://ds.dfci.harvard.edu/our-people/geoffrey-fell-ms/)
+* [Brian Alexander](https://www.dfhcc.harvard.edu/insider/member-detail/member/brian-alexander-md-mph/)
+* [Lorenzo Trippa] (https://www.hsph.harvard.edu/lorenzo-trippa/)
 
-<ins>Dana-Farber Cancer Institute</ins>
-  
-*Geoffrey Fell
-  
-*Brian M. Alexander
-  
-*Lorenzo Trippa
 
-<ins>Palmer Laboratory at University of North Carolina at Chapel Hill</ins>
+<u>Palmer Laboratory at University of North Carolina at Chapel Hill</u>
   
-*Adam C. Palmer
-  
-*Haeun (Hannah) Hwangbo 
+* [Adam Palmer](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/)
+* [Haeun (Hannah) Hwangbo](https://www.linkedin.com/in/haeun-hannah-hwangbo-b0a17515a/) 
+
 
 <b>CITATIONS<b/>
 
