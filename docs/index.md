@@ -33,7 +33,7 @@ The Kaplan Meir estimators [3] for survival universally published as part of Pha
 **CT1.v1** 
 Imputed IPD from ~150 trial publications in breast, colorectal, lung, and prostate cancer, which in aggregate comprise ~220,000 overall survival OS) or event-free survival events (e.g. progression free survival, PFS). 
 
-**CT1.v2** 
+**CT2.v1** 
 Imputed IPD from combination therapies with immune-checkpoints inhibitors across six cancer types including breast, gastric, head and neck, lung, melanoma, and renal. 
 
 **Citation:** “Cancer patient survival can be accurately parameterized, revealing time-dependent therapeutic effects and doubling the precision of small trials” by Deborah Plana, Geoffrey Fell, Brian M. Alexander, Adam C. Palmer, Peter K. Sorger. bioRxiv 2021.05.14.442837; doi: https://doi.org/10.1101/2021.05.14.442837.
