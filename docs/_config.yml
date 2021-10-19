@@ -21,7 +21,7 @@
 title: cancertrials.io
 description: Imputed IPD for cancer clinical trials
 logo: "/assets/images/CancerTrials_Logo_Color.svg"
-hero_background: "/assets/images/wallpaper survival curves.jpg"
+hero_background: "/assets/images/wallpaper survival curves.PNG"
 
 # Build settings
 remote_theme: jegra/just-the-docs@hms
