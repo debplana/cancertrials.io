@@ -36,7 +36,7 @@ Imputed IPD from ~150 trial publications in breast, colorectal, lung, and prosta
 **Citation:** “Cancer patient survival can be accurately parameterized, revealing time-dependent therapeutic effects and doubling the precision of small trials” by Deborah Plana, Geoffrey Fell, Brian M. Alexander, Adam C. Palmer, Peter K. Sorger. bioRxiv 2021.05.14.442837; doi: https://doi.org/10.1101/2021.05.14.442837.
 
 **CT2.v1** 
-Imputed IPD from combination therapies with immune-checkpoints inhibitors across six cancer types including breast, gastric, head and neck, lung, melanoma, and renal. 
+Imputed IPD from combination therapies with immune-checkpoint inhibitors across six cancer types including breast, gastric, head and neck, lung, melanoma, and renal. 
 
 **Citation:** “Combinatorial benefit without synergy in recent clinical trials of immune checkpoint inhibitors” by Adam C. Palmer, Benjamin Izar , Haeun Hwangbo and Peter K. Sorger. medRxiv 2020.01.31.20019604; doi: https://doi.org/10.1101/2020.01.31.20019604.
 
