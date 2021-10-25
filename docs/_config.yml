@@ -39,7 +39,7 @@ back_to_top_text: "Back to Top"
 
 # License Information
 license_name: "MIT License"
-license_url:  "https://github.com/labsyspharm/cancertrials.io/blob/main/LICENSE" 
+license_url:  "/LICENSE.txt" 
 
 # Linked logos
 footer_logos:
