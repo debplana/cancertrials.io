@@ -39,7 +39,7 @@ back_to_top_text: "Back to Top"
 
 # License Information
 license_name: "MIT License"
-license_url: "/LICENSE"
+license_url:  "https://github.com/pmarsceill/just-the-docs/blob/master/LICENSE.txt" 
 
 # Linked logos
 footer_logos:
