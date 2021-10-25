@@ -37,9 +37,12 @@ banner_links:
 back_to_top: true
 back_to_top_text: "Back to Top"
 
-# License Information
-license_name: "MIT License"
-license_url:  "/LICENSE.txt" 
+footer_content: "Copyright &copy; 2021 Deborah Plana, Adam C. Palmer, and Peter K. Sorger."
+
+license:
+  - description: 
+    name: "MIT License"
+    url: "/LICENSE.txt" 
 
 # Linked logos
 footer_logos:
