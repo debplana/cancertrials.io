@@ -21,8 +21,8 @@
 title: cancertrials.io
 description: >- # this means to ignore newlines until "baseurl:"
   A blank website with the LSP/HiTS custom style template 
-logo: "/assets/images/CancerTrials_Logo_Color.svg"
-hero_background: "/assets/images/wallpaper survival curves.PNG"
+logo: "https://github.com/labsyspharm/cancertrials.io/assets/images/CancerTrials_Logo_Color.svg"
+hero_background: "https://github.com/labsyspharm/cancertrials.io/assets/images/wallpaper survival curves.PNG"
 
 # Build settings
 remote_theme: labsyspharm/just-the-docs-lsp
