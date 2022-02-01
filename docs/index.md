@@ -38,7 +38,7 @@ Imputed IPD from ~150 trial publications in breast, colorectal, lung, and prosta
 **CT2.v1** 
 Imputed IPD from combination therapies with immune-checkpoint inhibitors across six cancer types including breast, gastric, head and neck, lung, melanoma, and renal. 
 
-**Citation:** "Predictable clinical benefits without evidence of synergy in trials of combination therapies with immune-checkpoint inhibitors” by Adam C. Palmer, Benjamin Izar , Haeun Hwangbo and Peter K. Sorger. Clin Cancer Res January 15 2022; doi: https://doi.org/10.1158/1078-0432.CCR-21-2275.
+**Citation:** "Predictable clinical benefits without evidence of synergy in trials of combination therapies with immune-checkpoint inhibitors” by Adam C. Palmer, Benjamin Izar, Haeun Hwangbo and Peter K. Sorger. Clin Cancer Res January 15 2022; doi: https://doi.org/10.1158/1078-0432.CCR-21-2275.
 
 <b>CONTRIBUTORS<b/>
   
