@@ -36,7 +36,7 @@ Imputed IPD from ~150 trial publications in breast, colorectal, lung, and prosta
 **Citations:**
 “Cancer patient survival can be parametrized to improve trial precision and reveal time-dependent therapeutic effects” by Deborah Plana, Geoffrey Fell, Brian M. Alexander, Adam C. Palmer, Peter K. Sorger. Nat Commun 13, 873 (2022). https://doi.org/10.1038/s41467-022-28410-9
 
-Plana, D., Fell, G., Alexander, B. M., Palmer, A. C. & Sorger, P. K. Imputed individual participant data from oncology clinical trials. Synpase repository https://doi.org/10.7303/SYN25813713 (2021).
+Plana, D., Fell, G., Alexander, B. M., Palmer, A. C. & Sorger, P. K. Imputed individual participant data from oncology clinical trials. Synpase repository. https://doi.org/10.7303/SYN25813713 (2021).
 
 
 
